@@ -2,7 +2,7 @@
  * To change this template, choose Tools | Templates
  * and open the template in the editor.
  */
-package lrc.calculator;
+package lrccalculator;
 
 import java.io.UnsupportedEncodingException;
 import java.util.logging.Level;
